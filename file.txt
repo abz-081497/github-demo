@@ -1,1 +1,1 @@
-This is my new file demo
+This is my new file.txt demo
